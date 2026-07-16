@@ -1,9 +1,9 @@
 @echo off
-chcp 437 >nul
-title Ground Branch Restore English
+chcp 936 >nul
+title Ground Branch 汉化包 - 恢复英文
 
 echo ========================================
-echo   Ground Branch Chinese Mod - Restore English
+echo   Ground Branch 简体中文汉化包 - 恢复英文
 echo ========================================
 echo.
 

@@ -1,9 +1,9 @@
-# Ground Branch Chinese Mod - Restore English files
+# Ground Branch 简体中文汉化包 恢复脚本
 
 $ErrorActionPreference = "Stop"
 $scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
 
-Write-Host "Restoring English files..."
+Write-Host "恢复英文文件..."
 Write-Host ""
 
 $gameDir = $null
@@ -18,28 +18,28 @@ foreach ($p in $paths) {
     if (Test-Path "$p\GroundBranch.exe") { $gameDir = $p; break }
 }
 if (-not $gameDir) {
-    $gameDir = Read-Host "Enter Ground Branch install path"
+    $gameDir = Read-Host "请输入 Ground Branch 安装路径"
 }
 
 $backupDir = "$gameDir\GroundBranch\Content\Localization\ChineseMod_Backup"
 
 if (-not (Test-Path $backupDir)) {
-    Write-Host "Error: Backup directory not found ($backupDir)"
-    Write-Host "Cannot restore."
+    Write-Host "错误：未找到备份目录 ($backupDir)"
+    Write-Host "无法恢复。"
     pause
     exit 1
 }
 
 if (Test-Path "$backupDir\StringTable") {
     Copy-Item -Path "$backupDir\StringTable\*" -Destination "$gameDir\GroundBranch\Content\GBCore\StringTable" -Force
-    Write-Host "  StringTable restored"
+    Write-Host "  StringTable 已恢复"
 }
 
 if (Test-Path "$backupDir\Localization") {
     Copy-Item -Path "$backupDir\Localization\*" -Destination "$gameDir\GroundBranch\Content\Localization\GroundBranch\zh-CN" -Recurse -Force
-    Write-Host "  Localization restored"
+    Write-Host "  Localization 已恢复"
 }
 
 Write-Host ""
-Write-Host "English files restored. Backup kept at: $backupDir"
+Write-Host "已恢复为英文。备份文件保留在: $backupDir"
 pause

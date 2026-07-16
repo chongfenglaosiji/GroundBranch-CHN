@@ -1,9 +1,9 @@
 @echo off
-chcp 437 >nul
-title Ground Branch Chinese Mod Installer
+chcp 936 >nul
+title Ground Branch 简体中文汉化包安装程序
 
 echo ========================================
-echo   Ground Branch Chinese Translation Mod
+echo   Ground Branch 简体中文汉化包安装程序
 echo ========================================
 echo.
 
