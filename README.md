@@ -15,15 +15,15 @@
 
 ## 安装
 
-### 方法一：运行安装脚本（推荐）
+### 方法一：双击运行（推荐）
+
+双击 `install.bat` 即可自动安装，脚本会检测游戏目录、备份原始文件后安装汉化。
+
+### 方法二：PowerShell
 
 ```powershell
-# 右键点击 install.ps1 → 使用 PowerShell 运行
-# 或命令行执行：
 powershell -ExecutionPolicy Bypass -File install.ps1
 ```
-
-脚本会自动检测游戏安装目录，备份原始文件后安装汉化。
 
 ### 方法二：手动安装
 
@@ -35,6 +35,8 @@ D:\SteamLibrary\steamapps\common\Ground Branch\
 ```
 
 ## 恢复英文
+
+双击 `restore.bat` 或运行：
 
 ```powershell
 powershell -ExecutionPolicy Bypass -File restore.ps1
