@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-**Ground Branch (地面部队) v1035.1 简体中文汉化** — 基于感悟的汉化版本全面更新完善。
+**Ground Branch (地面部队) v1036 简体中文汉化** — 基于感悟的 v1035.1 汉化版本全面更新完善。
 
 ## 功能
 
