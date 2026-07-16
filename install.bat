@@ -9,8 +9,6 @@ echo.
 
 powershell -ExecutionPolicy Bypass -File "%~dp0install.ps1"
 
-if %errorlevel% neq 0 (
-    echo.
-    echo 安装失败或已取消。
-    pause
-)
+echo.
+echo 按任意键退出...
+pause >nul
