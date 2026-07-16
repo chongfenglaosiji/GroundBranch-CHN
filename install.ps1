@@ -1,15 +1,15 @@
-# Ground Branch 简体中文汉化包 安装脚本
-# 作者：基于感悟的汉化更新完善
+# Ground Branch Simplified Chinese Localization Mod Installer
+# Based on Ganwu's original v1035.1 translation
 
 $ErrorActionPreference = "Stop"
 $scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
 
 Write-Host "========================================"
-Write-Host "  Ground Branch 简体中文汉化包安装程序"
+Write-Host "  Ground Branch Chinese Translation Mod"
 Write-Host "========================================"
 Write-Host ""
 
-# 查找游戏安装目录
+# Find game directory
 $gamePaths = @(
     "${env:ProgramFiles(x86)}\Steam\steamapps\common\Ground Branch",
     "${env:ProgramFiles}\Steam\steamapps\common\Ground Branch",
@@ -18,7 +18,6 @@ $gamePaths = @(
     "C:\SteamLibrary\steamapps\common\Ground Branch"
 )
 
-# Also try to find via Steam registry
 try {
     $steamPath = Get-ItemProperty -Path "HKCU:\Software\Valve\Steam" -Name "SteamPath" -ErrorAction SilentlyContinue
     if ($steamPath) {
@@ -40,64 +39,59 @@ foreach ($p in $gamePaths) {
 }
 
 if (-not $gameDir) {
-    Write-Host "未自动检测到游戏目录。"
-    $gameDir = Read-Host "请输入 Ground Branch 安装路径（如 D:\SteamLibrary\steamapps\common\Ground Branch）"
+    Write-Host "Game directory not found automatically."
+    $gameDir = Read-Host "Enter Ground Branch install path (e.g. D:\SteamLibrary\steamapps\common\Ground Branch)"
     if (-not (Test-Path "$gameDir\GroundBranch.exe")) {
-        Write-Host "错误：路径不正确，未找到 GroundBranch.exe"
+        Write-Host "Error: Invalid path, GroundBranch.exe not found."
         pause
         exit 1
     }
 }
 
-Write-Host "游戏目录: $gameDir"
+Write-Host "Game directory: $gameDir"
 
-# 确认安装
-$confirm = Read-Host "是否安装汉化包？(Y/N)"
+# Confirm installation
+$confirm = Read-Host "Install Chinese translation mod? (Y/N)"
 if ($confirm -ne "Y" -and $confirm -ne "y") {
-    Write-Host "已取消安装。"
+    Write-Host "Installation cancelled."
     pause
     exit 0
 }
 
-# 备份原始文件
+# Backup original files
 $backupDir = "$gameDir\GroundBranch\Content\Localization\ChineseMod_Backup"
-Write-Host "正在备份原始文件到: $backupDir"
+Write-Host "Backing up original files to: $backupDir"
 
-# Backup Localization
 if (Test-Path "$gameDir\GroundBranch\Content\Localization\GroundBranch\zh-CN") {
     New-Item -ItemType Directory -Force -Path "$backupDir\Localization" | Out-Null
     Copy-Item -Path "$gameDir\GroundBranch\Content\Localization\GroundBranch\zh-CN\*" -Destination "$backupDir\Localization" -Recurse -Force
 }
-# Backup StringTable
 if (Test-Path "$gameDir\GroundBranch\Content\GBCore\StringTable") {
     New-Item -ItemType Directory -Force -Path "$backupDir\StringTable" | Out-Null
     Copy-Item -Path "$gameDir\GroundBranch\Content\GBCore\StringTable\*.csv" -Destination "$backupDir\StringTable" -Force
     Copy-Item -Path "$gameDir\GroundBranch\Content\GBCore\StringTable\*.txt" -Destination "$backupDir\StringTable" -Force -ErrorAction SilentlyContinue
 }
 
-Write-Host "备份完成。"
+Write-Host "Backup complete."
 Write-Host ""
-Write-Host "正在安装汉化文件..."
+Write-Host "Installing translation files..."
 
-# 创建 zh-CN 目录
 New-Item -ItemType Directory -Force -Path "$gameDir\GroundBranch\Content\Localization\GroundBranch\zh-CN" | Out-Null
 
-# 复制 Localization 文件
 Copy-Item -Path "$scriptDir\GroundBranch\Content\Localization\GroundBranch\zh-CN\*" -Destination "$gameDir\GroundBranch\Content\Localization\GroundBranch\zh-CN" -Recurse -Force
-Write-Host "  [1/2] Localization 文件已安装"
+Write-Host "  [1/2] Localization files installed"
 
-# 复制 StringTable 文件（覆盖英文）
 Copy-Item -Path "$scriptDir\GroundBranch\Content\GBCore\StringTable\*.csv" -Destination "$gameDir\GroundBranch\Content\GBCore\StringTable" -Force
-Write-Host "  [2/2] StringTable 文件已安装"
+Write-Host "  [2/2] StringTable files installed"
 
 Write-Host ""
 Write-Host "========================================"
-Write-Host "  汉化包安装完成！"
+Write-Host "  Installation Complete!"
 Write-Host "========================================"
 Write-Host ""
-Write-Host "启动游戏即可体验中文界面。"
+Write-Host "Launch the game to experience Chinese UI."
 Write-Host ""
-Write-Host "如需恢复英文："
-Write-Host "  powershell -ExecutionPolicy Bypass -File ""$scriptDir\restore.ps1"""
+Write-Host "To restore English:"
+Write-Host "  Double-click restore.bat"
 Write-Host ""
 pause
