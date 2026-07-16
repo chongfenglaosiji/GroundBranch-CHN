@@ -1,0 +1,28 @@
+﻿"Key","SourceString"
+"Supported","支持"
+"IncompatibleApiCaptureTool","不兼容的 API 捕获工具已激活
+
+DLSS 与活跃的 API 捕获工具（如 RenderDoc）不兼容。"
+"DlssFrameGeneration","NVIDIA DLSS 3 使用 AI 分析连续帧和运动数据，以创建额外的高质量、高响应帧。
+
+注意：常规帧率计数器不会计入此技术生成的帧。但 NVIDIA® 叠加层 (Alt + Z) 可以正确报告您的 DLSS 3 增强帧率。"
+"Requirements","使用 AI 分析连续帧和运动数据，以创建额外的高质量、高响应帧。
+
+要求：
+• NVIDIA® GeForce RTX 40 系列 GPU
+• DX12 模式"
+"PlatformNotSupportedAtBuildTime","构建时平台不受支持
+
+此平台在构建时不支持 DLSS。目前，DLSS 仅支持 64 位版本的 Windows。"
+"OutdatedOperatingSystem","操作系统过时
+
+DLSS 至少需要 Windows 10 2017 年秋季创意者更新 64 位 (v1709, build 16299)。"
+"NotSupportedByHardwareOrDxMode","您的硬件或当前的 DX 模式不支持。
+
+DLSS 3 需要 NVIDIA RTX 40 系列显卡，并且游戏需要以 DX12 模式运行（退出游戏并从启动对话框中选择，或在启动参数中添加 -dx12 并重新启动游戏）。"
+"OutdatedDrivers","驱动程序过时
+
+您的 GPU 驱动程序已过时。请更新您的驱动程序并重新启动游戏。"
+"IncompatibleHardware","不兼容的硬件
+
+DLSS 需要 NVIDIA RTX 40 系列显卡。"

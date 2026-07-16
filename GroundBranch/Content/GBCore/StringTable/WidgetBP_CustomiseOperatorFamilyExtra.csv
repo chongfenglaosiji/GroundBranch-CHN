@@ -1,0 +1,8 @@
+﻿"Key","SourceString"
+"IncompleteLoadoutTitle","装备不完整"
+"SaveFailedTitle","保存失败"
+"MissingRequiredLoadoutMessage","请确保您已选择头部、上衣、裤子和鞋子。"
+"SaveFailedWriteAccessMessage","请确保您对以下路径具有写入权限：
+{0}
+
+您可能需要将 GROUND BRANCH 二进制文件添加到您正在运行的任何防病毒或反恶意软件的白名单中。"

@@ -1,0 +1,4 @@
+﻿"Key","SourceString"
+"UnboundModifier","未绑定的修饰键"
+"ModifierSuffix"," + {0}"
+"CombinedGamepadModifiersAndKey","{KeyDisplayName}{Shift}{Ctrl}{Alt}{Cmd}"

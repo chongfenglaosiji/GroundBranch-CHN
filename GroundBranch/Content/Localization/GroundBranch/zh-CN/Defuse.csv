@@ -1,0 +1,18 @@
+Key,SourceString,Comment
+"defuse","拆除炸弹",gamemode name - probably don't need this any more
+"objective_DefuseBombs","找到并拆除炸弹","Opsboard"
+"summary_BluForEliminated","你的小队被全歼","AAR"
+"summary_BombsDetonated","时间已耗尽","AAR"
+"summary_BombHit","一枚流弹触发了炸弹","AAR"
+"summary_DefusedBombs","所有炸弹已找到并拆除","AAR"
+"missionsetting_defendersetuptime","防御者准备时间","Opsboard"
+"missionsetting_bombcount","炸弹数量","Opsboard"
+"missionsetting_defusetime","拆除时间（秒）","Opsboard"
+"missionsetting_randomisetcount","敌人数随机化","Opsboard"
+"missionsetting_randomisetcount_0","否",
+"missionsetting_randomisetcount_1","少量",
+"missionsetting_randomisetcount_2","大量",
+"gamemessage_randomisedtcount","敌人数量已被随机化。",""
+"format_XBombsRemain","{NumberRemaining} {NumberRemaining}|plural(one=bomb,other=bombs) left",formatted string
+"format_DefuseXBombs","You have {Minutes} {Minutes}|plural(one=minute,other=minutes) to defuse {NumberRemaining} {NumberRemaining}|plural(one=bomb,other=bombs).\nGo go go!",formatted string
+"format_BombDefusedXLeft","Bomb defused!\n{NumberRemaining} {NumberRemaining}|plural(one=bomb,other=bombs) left",formatted string

@@ -1,0 +1,25 @@
+Key,SourceString,Comment
+Deathmatch,Deathmatch,
+DeathTeam,Team Of Death
+"objective_KillEveryone","反复击杀所有其他玩家",Opsboard
+"summary_ReachedFragLimit","击杀限制已到",AAR
+"summary_ReachedTimeLimit","时间限制已到",AAR
+"summary_NoWinner","所有人阵亡，无法确定胜者。",AAR
+"missionsetting_fraglimit",击杀限制,
+"missionsetting_fraglimit_0",无限制,
+"missionsetting_fraglimit_1","3",
+"missionsetting_fraglimit_2","5",
+"missionsetting_fraglimit_3","10",
+"missionsetting_fraglimit_4","20",
+"missionsetting_fraglimit_5","30",
+"missionsetting_fraglimit_6","50",
+"missionsetting_fraglimit_7","100",
+"missionsetting_botscanscore","BOT击杀得分",
+"missionsetting_botscanscore_0","否",
+"missionsetting_botscanscore_1","是",
+"missionsetting_joininprogress","中途加入",
+"missionsetting_joininprogress_0","否",
+"missionsetting_joininprogress_1","是",
+"format_XKilledY","{killername} killed {killedname}",formatted string
+"format_DMJointFirstPosition","Joint 1st: {PlayerName} leads ({BestKills}{NumFragsText} kills)",leaderboard status
+"format_DMFirstPosition","1st: {PlayerName} leads ({BestKills}{NumFragsText} kills)",leaderboard status

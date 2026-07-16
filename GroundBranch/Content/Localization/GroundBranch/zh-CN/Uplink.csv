@@ -1,0 +1,40 @@
+Key,SourceString,Comment
+Uplink,进攻/守护固定设备,
+objective_DefendObjective,保护笔记本电脑,Opsboard
+objective_EliminateAttackers,消灭攻击队,Opsboard
+objective_CaptureObjective,找到并入侵笔记本电脑,Opsboard
+objective_EliminateDefenders,消灭防守队,Opsboard
+summary_DefendObjective,信息被成功保护,AAR
+summary_CaptureObjective,信息已从笔记本电脑中提取,AAR
+summary_DefendersEliminated,防守队被消灭,AAR
+summary_AttackersEliminated,攻击队被消灭,AAR
+summary_BothEliminated,双方队伍被全歼,AAR
+roundstage_BlueDefenderSetup_1,准备保护笔记本电脑,Opsboard
+roundstage_BlueDefenderSetup_2,防守方正在设置。\r\n准备找到并入侵笔记本电脑,Opsboard
+roundstage_RedDefenderSetup_1,防守方正在设置。\r\n准备找到并入侵笔记本电脑,Opsboard
+roundstage_RedDefenderSetup_2,准备保护笔记本电脑,Opsboard
+gamemessage_swapAttacking,队伍已交换。\r\n你现在是攻击方,
+gamemessage_swapdefending,队伍已交换。\r\n你现在是防守方,
+missionsetting_autoswap_0,否,
+missionsetting_autoswap_1,是,
+missionsetting_autoswap,自动交换队伍,
+missionsetting_defendersetuptime,防守方准备时间（秒）,Opsboard
+missionsetting_capturetime,占领所需时间（秒）,Opsboard
+missionsetting_balanceteams,每回合平衡双方队伍,
+missionsetting_balanceteams_0,否,
+missionsetting_balanceteams_1,是 (轻微调整),
+missionsetting_balanceteams_2,是 (积极调整),
+missionsetting_balanceteams_3,是 (始终调整),
+"missionsetting_proximityalert","提示攻方已接近笔记本",
+"missionsetting_proximityalert_0","否",
+"missionsetting_proximityalert_1","是",
+gamemessage_playersmovedintoteam1,1名玩家已被调入你的队伍以平衡本局游戏,
+gamemessage_playersmovedintoteam2,2名玩家已被调入你的队伍以平衡本局游戏,
+gamemessage_playersmovedintoteam3,3名玩家已被调入你的队伍以平衡本局游戏,
+gamemessage_playersmovedintoteam4,4名玩家已被调入你的队伍以平衡本局游戏,
+gamemessage_playersmovedoutofteam1,1名玩家已被调出你的队伍以平衡本局游戏,
+gamemessage_playersmovedoutofteam2,2名玩家已被调出你的队伍以平衡本局游戏,
+gamemessage_playersmovedoutofteam3,3名玩家已被调出你的队伍以平衡本局游戏,
+gamemessage_playersmovedoutofteam4,4名玩家已被调出你的队伍以平衡本局游戏,
+gamemessage_movedtoattackteam,你已被调至攻击队以平衡本局游戏!,
+gamemessage_movedtodefendteam,你已被调至防守队以平衡本局游戏!,

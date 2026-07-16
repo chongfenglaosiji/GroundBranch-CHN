@@ -1,0 +1,18 @@
+Key,SourceString,Comment
+"TerroristHunt","猎杀恐怖分子",""
+"objective_EliminateOpFor","定位并消灭区域内所有威胁","Opsboard"
+"summary_OpForEliminated","所有威胁已被消灭","AAR"
+"summary_BluForEliminated","你的小队被全歼","AAR"
+"missionsetting_showremaining","显示剩余威胁","Opsboard"
+"missionsetting_bumrushmode","Bum rush模式","Opsboard"
+"missionsetting_bumrushmode_0","禁用",
+"missionsetting_bumrushmode_1","最后敌人会猎杀你",
+"missionsetting_useaihotspots","敌人热点区域","Opsboard"
+"missionsetting_useaihotspots_0","禁用",
+"missionsetting_useaihotspots_1","启用",
+"missionsetting_randomisetcount","敌人数随机化","Opsboard"
+"missionsetting_randomisetcount_0","否",
+"missionsetting_randomisetcount_1","少量",
+"missionsetting_randomisetcount_2","大量",
+"gamemessage_randomisedtcount","敌人数量已被随机化。",""
+"format_RemainingOpfor","{NumberRemaining} {NumberRemaining}|plural(one=enemy,other=enemies) remaining",formatted string

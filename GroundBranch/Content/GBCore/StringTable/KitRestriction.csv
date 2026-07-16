@@ -1,0 +1,13 @@
+﻿Key,SourceString
+"Allow","允许"
+"AllowToolTip","允许具有这些上下文标签的任何物品。"
+"AllowAll","允许全部"
+"AllowAllToolTip","允许具有所有目标标签的物品。"
+"AllowAny","允许任一"
+"AllowAnyToolTip","允许具有任一目标标签的物品。"
+"Deny","拒绝"
+"DenyToolTip","拒绝具有这些上下文标签的任何物品。"
+"DenyAll","拒绝全部"
+"DenyAllToolTip","拒绝具有所有目标标签的物品。"
+"DenyAny","拒绝任一"
+"DenyAnyToolTip","拒绝具有任一目标标签的物品。"

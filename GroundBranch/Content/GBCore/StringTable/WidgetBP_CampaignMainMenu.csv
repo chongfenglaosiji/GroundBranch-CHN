@@ -1,0 +1,20 @@
+﻿"Key","SourceString"
+"ViewSquad","查看当前 AI 队友阵容。"
+"CiaZonesOfInterest","中情局关注区域"
+"Pan","平移"
+"NewsFeed","新闻动态"
+"ResetCampaign","重置战役"
+"ViewHotspot","查看热点并选择要执行的任务。"
+"Roster","名单"
+"ResetCampaignProgressMessage","您即将重置所有战役进度。
+
+这将重新锁定任何已解锁的热点，并重置队伍名单。此操作无法撤销。
+
+继续？"
+"ResetCampaignTooltip","擦除所有进度并重置队伍名单。请谨慎操作！"
+"OperationsMap","行动地图"
+"CampaignHasBeenResetMessage","您的战役进度和名单已重置。"
+"OpenHotspot","打开热点"
+"ResetCampaignProgressTitle","重置进度？"
+"Zoom","缩放"
+"CampaignHasBeenResetTitle","战役已重置"

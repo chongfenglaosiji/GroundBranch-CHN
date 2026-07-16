@@ -1,0 +1,182 @@
+﻿"Key","SourceString"
+"AdminPanel","管理员面板"
+"AdvancedSettings","请小心更改这些设置，因为它们可能会影响游戏输入。"
+"AimDownSights","瞄准 (ADS)"
+"AimType","瞄准类型"
+"AimTypeInfo","[切换]
+按一次瞄准键开始瞄准，再按一次停止。
+
+[按住]
+按住瞄准键保持瞄准，松开停止。"
+"AlwaysRun","始终奔跑"
+"AttachmentsWheel","附件转盘"
+"AttachmentsWheelHotkey1","附件转盘 – 快捷键 1"
+"AttachmentsWheelHotkey2","附件转盘 – 快捷键 2"
+"AttachmentsWheelHotkey3","附件转盘 – 快捷键 3"
+"AttachmentsWheelHotkey4","附件转盘 – 快捷键 4"
+"AttachmentsWheelHotkey5","附件转盘 – 快捷键 5"
+"AttachmentsWheelHotkey6","附件转盘 – 快捷键 6"
+"Automatic","自动"
+"BecomeSpectator","成为观察者"
+"BoltAction","栓动"
+"BoltActionInfo","发射栓动武器时的期望行为。
+
+[自动]
+每次射击后自动完成上膛动作。
+
+[手动]
+射击后需要按射击键才能装填新子弹。使用瞄准镜时尤其推荐，因为可以确认子弹落点。"
+"ButtonModifiersCombos","按键修饰符（组合键）"
+"CameraFirstPersonReset","摄像机：第一人称 / 重置"
+"CameraFixed","摄像机：固定"
+"CameraFixedFollow","摄像机：固定（跟随）"
+"CameraHeadCam","摄像机：头部视角"
+"CameraOverTheShoulder","摄像机：越肩视角"
+"CameraSelfie","摄像机：自拍视角"
+"CameraThirdPerson","摄像机：第三人称"
+"CameraThirdPersonFree","摄像机：第三人称（自由）"
+"ChangeCamera","切换摄像机"
+"ChangeIrIlluminatorMode","切换红外照明模式"
+"ChangeLaserModeVisibleIr","切换激光模式（可见光/红外）"
+"CheatGhostNoClip","作弊：穿墙/无碰撞"
+"CheatWalkEndNoClip","作弊：行走/结束无碰撞"
+"Combat","战斗"
+"Command","命令"
+"CommandMenu","命令菜单"
+"CommsWheel","通讯转盘"
+"Communication","通讯"
+"ConsoleKeys","控制台按键"
+"Control","控制"
+"Controller","控制器"
+"ControllerBinds","控制器绑定"
+"Crouch","下蹲"
+"CrouchType","下蹲类型"
+"DebugCommands","调试命令（仅离线/作弊）"
+"DefaultInputScaling","默认输入缩放"
+"DefaultInputScalingInfo","启用/禁用默认 2.5 输入缩放。"
+"DefaultReload","默认换弹"
+"DefaultReloadInfo","单次按下换弹键时执行的换弹类型：
+
+[保留弹匣]
+保留使用过的弹匣。速度较慢，但保留剩余弹药。
+
+[丢弃弹匣]
+将使用过的弹匣丢到地上。速度更快，但丢弃剩余弹药（之后可以捡起）。
+
+非默认的换弹方式通过双击换弹键执行。"
+"DoubleClickTime","[警告：将此值设置过低可能导致双击操作难以执行！]
+
+如果在此时长内两次按下某个键，则视为双击。"
+"DoubleClickTimeMilliseconds","双击时间（毫秒）"
+"DropItem","丢弃物品"
+"Equipment","装备"
+"FireModeSelector","射击模式选择器"
+"FireOrThrow","开火 / 投掷"
+"FocusZoomAds","焦点缩放 (ADS)"
+"FollowNextPlayer","跟随下一位玩家"
+"FollowPreviousPlayer","跟随上一位玩家"
+"Forfeit","放弃"
+"Freelook","自由视角"
+"FreelookOrCheckWatch","自由视角（按住）/ 查看手表（双击）"
+"FreelookOrCheckWatchInfo","按住可独立于身体和武器环顾四周（自由视角）。
+
+双击可查看腕表（查看时间、指南针等）。"
+"FreelookSensitivityScale","自由视角灵敏度比例"
+"FreelookSensitivityScaleInfo","决定自由视角灵敏度相对于常规鼠标灵敏度设置的缩放比例。
+
+1.0 = 相同灵敏度（默认）
+0.5 = 一半灵敏度
+2.0 = 两倍灵敏度"
+"GameCommandEndRound","游戏命令：结束回合"
+"GameCommandFreezeAi","游戏命令：冻结 AI"
+"GameCommandStartRound","游戏命令：开始回合"
+"GlobalChatText","全局聊天（文字）"
+"Grenades","手榴弹"
+"HandSignals","手势信号"
+"Hold","按住"
+"InputOptions","输入选项"
+"Interact","互动"
+"Inventory","物品栏"
+"InvertLook","反转视角"
+"IrIlluminator","红外照明器"
+"JumpClimbHold","跳跃 / 攀爬（按住）"
+"JumpClimbHoldTooltip","轻按跳跃。在障碍物附近按住可攀爬。"
+"Keybinds","按键绑定"
+"KeyboardMouse","键盘与鼠标"
+"Laser","激光"
+"LaserActivationMode","按住临时激活。双击切换开关。"
+"LeanLeft","向左倾斜"
+"LeanRight","向右倾斜"
+"LeanType","倾斜类型"
+"LeftThumbstickDeadzone","左摇杆死区"
+"LeftThumbstickSensitivity","左摇杆灵敏度"
+"Look","视角"
+"LookUpDown","视角上下"
+"LowerWeaponOrSwitchSights","降低武器 / 切换瞄准具 (ADS)"
+"LowerWeaponOrSwitchSightsTooltip","将武器从预备姿势降低至低姿预备，或从高姿预备降低至预备姿势。
+
+瞄准时 (ADS)，切换至/自附加瞄准具（如果已装备）。"
+"Manual","手动"
+"MouseSensitivity","鼠标灵敏度"
+"MouseSmoothing","鼠标平滑"
+"MouseThumbstick","鼠标 / 摇杆"
+"MoveBackward","向后移动"
+"MoveForward","向前移动"
+"MoveLeft","向左移动"
+"MoveRight","向右移动"
+"Movement","移动"
+"NightVisionGoggles","夜视仪"
+"NightVisionRequiresHeadgear","夜视仪需要装备在角色的头饰上才能使用。"
+"NoRetention","丢弃弹匣"
+"Other","其他"
+"PrimaryWeapon","主武器"
+"Prone","匍匐"
+"ProximityVoice","近距离语音。附近任何队伍的玩家都能听到。"
+"ProximityVoiceVoip","近距离语音 (VOIP)"
+"PumpAction","泵动"
+"PumpActionInfo","发射泵动武器时的期望行为。
+
+[自动]
+每次射击后自动装填新弹药。
+
+[手动]
+射击后需要按射击键才能装填新弹药。"
+"RadioVoip","电台 (VOIP)"
+"RadioVoipInfo","队伍电台。向所有活跃队员发送。"
+"RaiseWeaponOrSwitchSights","抬起武器 / 切换瞄准具 (ADS)"
+"RaiseWeaponOrSwitchSightsTooltip","将武器从低姿预备抬起至预备姿势，或从预备姿势抬起至高姿预备。
+
+瞄准时 (ADS)，切换至/自附加瞄准具（如果已装备）。"
+"Reload","换弹"
+"ResetDefaultLabel","重置为默认"
+"Retention","保留弹匣"
+"ReticleBrightnessDown","准星亮度减"
+"ReticleBrightnessUp","准星亮度加"
+"ReturnToReadyRoom","返回准备室"
+"RightThumbstickDeadzone","右摇杆死区"
+"RightThumbstickSensitivity","右摇杆灵敏度"
+"Run","奔跑"
+"RunType","奔跑类型"
+"Screenshot","截图"
+"SecondaryWeapon","副武器"
+"Shooting","射击"
+"ShowAdvancedOptions","显示高级选项"
+"ShowCollision","显示：碰撞"
+"Slomo10Percent","慢动作：10%"
+"Slomo200Percent","慢动作：200%"
+"SlomoReset100Percent","慢动作：重置（100%）"
+"SpectatorMode","观察者模式"
+"SpectatorNightVisionMode","观察者夜视模式"
+"SprintSteadyAimAds","冲刺 / 稳定瞄准 (ADS)"
+"StanceDown","姿势降低"
+"StanceUp","姿势升高"
+"StopFollowing","停止跟随"
+"TabletMapMissionIntel","平板电脑（地图/任务信息）"
+"TacLight","战术灯"
+"TeamChatText","队伍聊天（文字）"
+"Toggle","切换"
+"ToggleHud","切换 HUD"
+"TurnLeftRight","左右转动"
+"WeaponAttachments","武器附件"
+"ZoomInScope","放大（瞄准镜）"
+"ZoomOutScope","缩小（瞄准镜）"

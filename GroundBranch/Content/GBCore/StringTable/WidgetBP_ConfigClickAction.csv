@@ -1,0 +1,6 @@
+﻿"Key","SourceString"
+"Title","字符串"
+"ConfirmResetDialogOptOutsTitle","确认重置对话框忽略项"
+"ConfirmResetDialogOptOutsMessage","您确定要重置所有对话框忽略项吗？"
+"ConfirmResetHintsMessage","您确定要重置所有提示吗？您需要重新加载关卡才能让准备室的提示重新出现。"
+"ConfirmResetHintsTitle","确认重置提示"

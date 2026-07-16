@@ -1,0 +1,43 @@
+Key,SourceString,Comment
+"TeamElimination","团队歼灭",""
+"objective_EliminateBlue","找到并消灭蓝队所有成员","Opsboard"
+"objective_EliminateRed","找到并消灭红队所有成员","Opsboard"
+"summary_BlueEliminated","蓝队所有成员被消灭","AAR"
+"summary_RedEliminated","红队所有成员被消灭","AAR"
+"summary_BothEliminated","双方队伍被全歼","AAR"
+gamemessage_couldnotrespawn,"无法在队友处重生——未找到生成点",
+gamemessage_reinforcementinyourvicinity,"注意开火——增援部队正在你附近到达",
+gamemessage_couldntrespawnrecentdeath,"无法在队友处重生——太接近最近的死亡点",
+gamemessage_couldntrespawnenemyclose,"无法在队友处重生——敌人太近",
+gamemessage_playerteamreinforcementsremain,"玩家和团队增援部队仍然存在",
+gamemessage_playerreinforcementsremain,"还剩下几名玩家的增援",
+gamemessage_playerreinforcementremains,"还剩下一名玩家的增援",
+gamemessage_teamreinforcementsremain,"还剩下几支增援部队",
+gamemessage_teamreinforcementremains,"还剩下一支增援部队",
+gamemessage_noplayerorteamreinforcementsremain,"没有玩家或团队增援部队剩余",
+gamemessage_yourgameisover,"团队和玩家增援已用尽——你的游戏结束了",
+gamemessage_playerreinforcementinbound,"玩家增援正在到达——点击[重生]以控制",
+gamemessage_teamreinforcementinbound,"团队增援正在到达——点击[重生]以控制",
+gamemessage_returningtoinsertionpoint,"返回插入点",
+gamemessage_insertingnexttoteammate,"在队友旁插入",
+gamemessage_respawningatinsertion,"在插入点重生",
+missionsetting_teamreinforcements,"团队增援",
+missionsetting_playerreinforcements,"玩家增援",
+missionsetting_teammaterespawns,"允许队友重生",
+missionsetting_teammaterespawns_0,"否",
+missionsetting_teammaterespawns_1,"是",
+missionsetting_balanceteams,每回合平衡队伍,
+missionsetting_balanceteams_0,否,
+missionsetting_balanceteams_1,是 (轻微调整),
+missionsetting_balanceteams_2,是 (积极调整),
+missionsetting_balanceteams_3,是 (始终调整),
+gamemessage_playersmovedintoteam1,1名玩家已被调入你的队伍以平衡本局游戏,
+gamemessage_playersmovedintoteam2,2名玩家已被调入你的队伍以平衡本局游戏,
+gamemessage_playersmovedintoteam3,3名玩家已被调入你的队伍以平衡本局游戏,
+gamemessage_playersmovedintoteam4,4名玩家已被调入你的队伍以平衡本局游戏,
+gamemessage_playersmovedoutofteam1,1名玩家已被调出你的队伍以平衡本局游戏,
+gamemessage_playersmovedoutofteam2,2名玩家已被调出你的队伍以平衡本局游戏,
+gamemessage_playersmovedoutofteam3,3名玩家已被调出你的队伍以平衡本局游戏,
+gamemessage_playersmovedoutofteam4,4名玩家已被调出你的队伍以平衡本局游戏,
+gamemessage_movedtoattackteam,你已被调至攻击队以平衡本局游戏!,
+gamemessage_movedtodefendteam,你已被调至防守队以平衡本局游戏!,

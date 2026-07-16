@@ -1,0 +1,45 @@
+﻿"Key","SourceString"
+"HotspotProgressResetTitle","进度已重置"
+"ResetHotspotProgressTitle","重置进度"
+"MissionListEntry","{misnum}. {misname}"
+"CannotDeployOnline","Steam API 当前似乎不可用。请检查您的连接以及是否正在运行另一个游戏副本。"
+"OfflineDeploymentMessage","Steam API 似乎不可用。
+
+您将离线游玩（作为单人行动者），无法邀请其他玩家加入。
+
+继续？"
+"HotspotBriefing","热点简报"
+"OfflineModeBanner","/离线
+模式"
+"ResetHotspotProgressMessage","重置此热点中所有任务的进度？
+这不会影响您的队伍名单。"
+"ProceedWithDeploymentOnlineTitle","在线模式"
+"IntelAssets","情报资产"
+"OnlineModeBanner","/在线
+模式"
+"HotspotProgressResetMessage","所有热点任务的进度已重置。"
+"ReturnToMissionSelection","返回任务选择"
+"BigMissionName","0X. 任务名称"
+"HotspotCodename","无"
+"MissionType","直接行动"
+"ProceedWithDeploymentOnlineMessage","以在线模式部署？
+
+您将前往任务的准备室。
+您可以邀请其他玩家，但无法暂停游戏。
+
+只有被邀请的玩家可以看到或加入您的游戏。"
+"MissionDetails","任务详情"
+"FailedToModSyncTitle","模组同步失败"
+"HotspotLongName","热点长名称"
+"FailedToModSyncMessage","无法禁用模组。请尝试重启游戏后重试。"
+"OfflineDeploymentTitle","离线模式"
+"ReturnToOperationsMap","返回行动地图"
+"Environment","环境"
+"DeployOfflineTooltip","仅限单人模式。您将以单人行动者身份游玩。此模式允许暂停游戏。"
+"AvailableMissions","可用任务"
+"ProceedWithDeploymentOfflineMessage","以离线模式部署？
+
+您将以单人行动者身份游玩。您无法邀请其他玩家加入您的任务，但可以暂停游戏。"
+"HumanFactors","人为因素"
+"Deploy","部署"
+"DeployOnlineTooltip","除了以单人行动者身份游玩外，此模式还允许您邀请玩家加入。此模式下无法暂停游戏。"

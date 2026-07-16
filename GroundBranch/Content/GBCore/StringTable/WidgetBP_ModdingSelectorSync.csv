@@ -1,0 +1,53 @@
+﻿"Key","SourceString"
+"Join","当模组全部同步后继续进入服务器会话。"
+"Or","或"
+"SearchResultsMaxShown","搜索结果（显示 {0} 条，共 {1}+ 条）"
+"DownloadServerModsTitle","下载服务器模组？"
+"MountingMods","正在挂载模组"
+"ServerMods","服务器模组"
+"SyncSucceeded","模组同步成功"
+"ContinueLabel","继续"
+"CurrentVersionOnly","仅显示为当前 Ground Branch 版本构建的模组"
+"Patch","补丁"
+"SearchByTitle","通过模组的标题文本和/或类型（如果选择）进行搜索。"
+"CancelSyncTitle","取消同步？"
+"SearchWorkshop","搜索工坊"
+"DownloadingMod","正在下载模组"
+"MountingActiveMods","正在挂载激活的模组"
+"Weapon","武器"
+"WaitingToSync","等待同步…"
+"SearchByModId","通过模组 ID 搜索（模组 URL 末尾的数字字符串）：
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=0000000000
+
+在上面的示例中，模组 ID 是 0000000000"
+"All","全部"
+"GameMode","游戏模式"
+"AutoJoinCountdown","{加入服务器} 在 {seconds} 秒后…"
+"MountingInactiveModsProgress","正在挂载未激活的模组：{NumLeft}/{Total}..."
+"CancelSyncMessage","如果现在取消，您将丢失所有未完成下载的进度。
+
+是否继续？"
+"SearchResultsNone","搜索结果（未找到）"
+"SearchResultsShown","搜索结果（显示 {0} 条）"
+"UnmountingMods","正在卸载模组"
+"Cancel","停止同步模组并取消加入尝试。"
+"ScreenTitle","模组同步"
+"SyncFailed","模组同步失败"
+"DownloadServerModsMessage","您尝试加入的服务器要求您下载模组才能游玩。
+
+您将自动在 Steam 工坊订阅这些模组，您可以随时使用模组菜单或通过 Steam 工坊取消订阅。
+
+继续？"
+"AILoadout","AI 装备"
+"SearchResults","搜索结果"
+"ModIdHint","搜索模组 ID…"
+"ModTitleExample","标题长得过分会断成一两行的模组标题（Fatmarrow 2024）"
+"EnterTitle","输入要在工坊模组标题中搜索的文本。"
+"UnmountingInactiveMods","正在卸载未激活的模组"
+"UnmountingUnusedModsProgress","正在卸载未使用的模组：{NumLeft}/{Total}..."
+"DownloadProgress","0 MB / 0 MB"
+"ModTitleHint","搜索模组文本…"
+"Waiting","等待中…"
+"FilterByType","按类型添加筛选："
+"Mission","任务"

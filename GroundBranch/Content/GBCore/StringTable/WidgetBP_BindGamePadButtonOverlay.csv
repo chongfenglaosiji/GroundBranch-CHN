@@ -1,0 +1,12 @@
+﻿"Key","SourceString"
+"Confirm","确认"
+"BracketedButton","[{0}]"
+"ClearBind","清除绑定"
+"BoundModifierButton","{0}
+（{1} 修饰键）"
+"UnboundButton","无"
+"UnboundModifierButton","{0} 修饰键尚未
+绑定到按钮"
+"AddButtonModifierCombo","添加按钮修饰键组合？"
+"BindActionTo","绑定操作到"
+"PressButtonForAction","请为此操作按下一个按钮"

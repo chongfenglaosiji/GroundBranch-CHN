@@ -1,0 +1,14 @@
+﻿"Key","SourceString"
+"Magnification11xAndAbove","11倍及以上"
+"Magnification6xTo10x","6倍至10倍"
+"Magnification2x","2倍"
+"SensitivityScalingAds","灵敏度缩放（开镜）"
+"Magnification3xTo5x","3倍至5倍"
+"Magnification1_5x","1.5倍"
+"ScalingExplanation","常规灵敏度（非开镜）应如何根据每个放大倍率（开镜时）进行缩放。适用于鼠标和控制器。
+
+1.00 = 无缩放（与常规灵敏度相同）。
+0.50 = 灵敏度为常规灵敏度的一半。
+0.10 = 灵敏度为常规灵敏度的十分之一。"
+"Magnification2_5x","2.5倍"
+"Magnification1xUnmagnified","1倍（未放大）"

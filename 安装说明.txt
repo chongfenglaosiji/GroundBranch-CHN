@@ -1,0 +1,22 @@
+Ground Branch（地面部队）v1035.1 简体中文汉化包
+=================================================
+
+安装方法：
+  1. 右键点击 install.ps1 → 选择"使用 PowerShell 运行"
+  2. 脚本会自动检测游戏目录，或手动输入路径
+  3. 按 Y 确认安装
+  4. 启动游戏
+
+手动安装（如果脚本不能用）：
+  将 GroundBranch 文件夹复制到游戏安装目录，覆盖原文件。
+  游戏路径示例：
+    D:\SteamLibrary\steamapps\common\Ground Branch\
+
+恢复英文：
+  运行 restore.ps1 即可恢复备份的英文文件。
+
+说明：
+  - 基于感悟的 v1035.1 汉化更新完善
+  - 完整翻译了游戏主界面、设置菜单、装备界面等 UI 文本
+  - 武器/装备名称保留英文原版（AK-105、ACOG等为专有名词）
+  - 备份文件保存在 GroundBranch\Content\Localization\ChineseMod_Backup\

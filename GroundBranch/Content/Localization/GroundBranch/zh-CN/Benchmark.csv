@@ -1,0 +1,11 @@
+Key,SourceString,Comment
+"Benchmark","Benchmark",""
+"summary_Complete","Benchmark Complete.","AAR"
+"summary_Failed","Benchmark Failed.","AAR"
+"format_RemainingOpfor","{NumberRemaining} {NumberRemaining}|plural(one=enemy,other=enemies) remaining",formatted string
+"missionsetting_ai","AI","Opsboard"
+"missionsetting_ai_0","Off",
+"missionsetting_ai_1","On",
+"missionsetting_spectatoronly","Spectator Only","Opsboard"
+"missionsetting_spectatoronly_0","Disabled",
+"missionsetting_spectatoronly_1","Enabled",

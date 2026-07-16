@@ -1,0 +1,26 @@
+﻿"Key","SourceString"
+"IncludeScreenshotMenuIssue","是——问题与菜单相关（不包括此界面）"
+"ScreenshotTaken","已截取屏幕截图。"
+"TakingScreenshot","正在截取屏幕截图…"
+"ReportBug","报告错误"
+"StepsToReproduce","重现步骤"
+"BugSummaryRequired","[必填] 在此处简要描述您遇到的错误。"
+"SubmittingTitle","报告错误"
+"SubmittingReport","正在提交报告——
+请稍候…"
+"DescriptionRequired","[必填] 请尽可能详细地描述错误。它是否发生在特定物品、特定条件下或特定地图位置？"
+"BugSummary","错误摘要"
+"HidingScreenToTakeScreenshot","正在隐藏此界面以
+截取 UI 截图…"
+"IncludeScreenshot","包含屏幕截图？"
+"IncludeScreenshotInGameIssue","是——问题在游戏中可见"
+"Description","描述"
+"IncludeLogFile","包含日志文件？"
+"SubmitFailed","提交错误失败。"
+"Back","返回"
+"SubmitSucceeded","错误报告已提交。谢谢！"
+"ReproductionOptional","[可选] 如果可能，请告诉我们如何在我们的环境中重现该错误。"
+"FailedToAddLog","添加日志失败。
+正在中止…"
+"FailedToTakeScreenshot","截取屏幕截图失败。
+正在中止…"

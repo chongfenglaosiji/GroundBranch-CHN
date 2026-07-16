@@ -1,0 +1,8 @@
+Key,SourceString,Comment
+"Assassination","暗杀",""
+"missionsetting_opforcount","预期抵抗力量","Opsboard"
+"objective_EliminateOpForLeader","定位并击杀高价值目标（HVT）","Opsboard"
+"objective_ExfiltrateBluFor","撤离至撤离点","Opsboard"
+"summary_OpForLeaderEliminated","高价值目标已被消灭","AAR"
+"summary_BluForExfilFailed","未能抵达撤离点","AAR"
+"summary_BluForEliminated","你的小队被全歼","AAR"

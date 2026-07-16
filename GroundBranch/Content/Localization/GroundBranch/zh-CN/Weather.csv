@@ -1,0 +1,8 @@
+Key,SourceString,Comment
+"weathercategory_unknown","季节性",""
+"weathercategory_clear","晴",""
+"weathercategory_cloudy","多云",""
+"weathercategory_overcast","阴",""
+"weathercategory_rain","雨",""
+"weathercategory_fog","雾",""
+"weathercategory_snow","雪",""

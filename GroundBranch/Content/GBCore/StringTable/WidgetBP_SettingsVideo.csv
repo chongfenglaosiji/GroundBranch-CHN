@@ -1,0 +1,115 @@
+﻿"Key","SourceString"
+"Accessibility","辅助功能"
+"Advanced","高级"
+"AdvancedSettings","如果你不知道这些是什么，请不要改动它们。"
+"AntiAliasing","抗锯齿 (AA)"
+"AntiAliasingMethodDlssInfo","用于抗锯齿的方法。
+
+注意：启用 DLSS 时，抗锯齿将不可用。"
+"AntiAliasingMethod","用于抗锯齿的方法。
+
+NVIDIA® DLAA 需要 NVIDIA® RTX™ 显卡。
+
+注意：启用 DLSS 时，抗锯齿将不可用。"
+"AntiAliasingSection","抗锯齿"
+"Auto","自动"
+"AutoDetect","运行基准测试并根据结果配置设置。"
+"AutoDetectLabel","自动检测"
+"Camera","摄像机"
+"ColorMaxContrastInfo","允许定义在颜色分级后颜色通道中值 1.0 映射到的位置。
+值应在 1 左右，较小的值会使高光变暗，较大的值会使更多颜色趋向白色。"
+"ColorMaxContrast","颜色最大值（对比度）"
+"ColourBlindnessMode","对不同类型色盲应用近似校正。这可能会降低图形质量，建议增加 Gamma 以纠正任何不希望的变暗。"
+"ColourBlindnessModeIntensity","色盲模式强度"
+"ColourBlindnessModeIntensityInfo","应用色盲校正的强度。
+
+0 = 无
+1 = 完全强度"
+"ColourBlindnessModeSetting","色盲模式"
+"Cyan","青色"
+"DefaultRed","默认（红色）"
+"Deuteranope","绿色弱"
+"DeuteranopeDaltonisation","绿色弱（道尔顿化）"
+"DlssSharpness","应用于 DLSS 通道的柔化/锐化程度。负值使图像更柔和，正值使图像更锐利。"
+"DlssSharpnessSetting","NVIDIA® DLSS 锐度"
+"Effects","特效"
+"EyeBias","0% — 摄像机位于角色双眼之间。
+
+100% — 摄像机位于角色右眼位置。"
+"EyeBiasSetting","眼睛偏移"
+"FieldOfView","视野 (FOV)"
+"FinishCurrentFrame","完成当前帧"
+"FinishCurrentFrameInfo","如果启用，当前帧将被强制完成并渲染到屏幕，而不是被缓冲。这将改善延迟，但会降低整体性能。"
+"FovDefault","较高的 FOV 可能会导致鱼眼镜头效果，并使武器瞄准具难以使用。"
+"Framerate","帧率"
+"Full","完整"
+"Gamma","伽马值"
+"Graphics","图形"
+"Green","绿色"
+"Half","一半"
+"High","高"
+"LeanRollDisplay","{0}"
+"LeanRollPov","倾斜滚动 (POV)"
+"LeanRollPovInfo","倾斜时摄像机显示的滚动量。
+
+0 = 无滚动
+10 = 摄像机按比例随倾斜动画滚动"
+"Low","低"
+"Magenta","洋红色"
+"MainMenuFramerateLockedMessage","请注意，主菜单的最大帧率锁定为 {0} FPS。你的设置将在游戏中生效。"
+"MaxFramerate","最大帧率"
+"Medium","中"
+"Monochrome","单色"
+"None","无"
+"NoticeTitle","注意"
+"NvidiaDlss","NVIDIA® DLSS"
+"OneFrameThreadLag","单帧线程延迟"
+"OneFrameThreadLagInfo","是否允许渲染线程比游戏线程延迟一帧。"
+"Orange","橙色"
+"PipScopeResolutionScale","画中画瞄准镜分辨率比例"
+"PipScopeResolutionScaleInfo","设置用于画中画 (PIP) 瞄准镜的渲染纹理分辨率比例。小于 1.0 的值可能会提高性能，但看起来不够清晰。"
+"PostProcessSharpening","后处理锐化"
+"PostProcessing","后处理"
+"Protanope","红色弱"
+"ProtanopeDaltonisation","红色弱（道尔顿化）"
+"Rendering","渲染"
+"ReplaceKeyRedsWith","将关键红色替换为"
+"ResetDefaultLabel","重置为默认"
+"RestartRequiredMessage","你需要重新启动游戏才能使所有更改生效。"
+"RestartRequiredTitle","需要重启"
+"ReticleColour","用于替代准星和任务标记中红色的颜色。
+
+应用色盲模式可能会改变此颜色。"
+"ScreenSpaceGlobalIllumination","屏幕空间全局光照 (SSGI)"
+"ScreenSpaceReflections","屏幕空间反射 (SSR)"
+"ScreenSpaceReflectionsInfo","是否使用屏幕空间反射及其质量。
+
+质量越高，性能开销越大。
+
+注意：仅在使用时间抗锯齿 (Temporal AA) 或 NVIDIA® DLAA 时可用。"
+"ShowFps","显示 FPS"
+"ShowFpsInfo","是否在屏幕左上角显示帧率 (FPS)。"
+"SsgiQuality","SSGI 质量"
+"SsgiQualityInfo","控制 SSGI 光线投射数量的质量设置。"
+"SsgiResolution","SSGI 分辨率"
+"SsgiResolutionInfo","是否以半分辨率进行 SSGI。"
+"TaaAlgorithm","用于时间抗锯齿 (TAA) 的算法。第 5 代更锐利/更少模糊，但可能比第 4 代有更大的性能影响。"
+"TaaAlgorithmGen4","第 4 代"
+"TaaAlgorithmGen5","第 5 代"
+"TaaAlgorithmSetting","TAA 算法"
+"TaaCurrentFrameWeight","TAA 当前帧权重"
+"TaaCurrentFrameWeightInfo","当前帧对时间抗锯齿 (TAA) 历史贡献的权重。
+
+较低的值会导致模糊和重影。较高的值无法隐藏抖动。"
+"TaaSamples","TAA 样本数"
+"TaaSamplesInfo","用于时间抗锯齿的抖动位置数量。"
+"TaaTemporal","TAA（时间抗锯齿）"
+"Textures","纹理"
+"TonemapperSharpen","色调映射器中的锐化。"
+"TonemapperSharpening","色调映射器锐化"
+"Tritanope","蓝色弱"
+"TritanopeDaltonisation","蓝色弱（道尔顿化）"
+"UnlimitedFramerate","无限帧率"
+"Video","视频"
+"VideoGraphics","视频与图形"
+"Yellow","黄色"

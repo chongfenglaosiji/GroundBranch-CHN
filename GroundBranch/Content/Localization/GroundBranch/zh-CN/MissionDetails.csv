@@ -1,0 +1,100 @@
+Key,SourceString,Comment
+"missionname_ukraine_1","夜袭",
+"missionname_ukraine_2","乌克兰第二关任务",
+"missiontype_ukraine_1","快速打击",
+"missiontype_ukraine_2","（任务类型）",
+
+"hotspotbriefing_ukraine","乌克兰东部的俄罗斯族裔对新成立的亲美政府感到愈发不满。尤其是在去年推翻亲俄政权的行动之后，首都与东部地区的矛盾已经达到沸点，暴力抗议及部分准军事冲突爆发。
+
+一个自称"东部解放阵线"的分裂主义组织对近期攻击军方哨所的行为负责。情报显示，他们可能并非独立行动：卫星图像在乌克兰东部发现多辆坦克、卡车及其他支援单位。一家俄罗斯私人军事公司（PMC）被指与这波行动有关，尽管这些车辆明显不是从私人承包商的后勤链中运来的。
+
+俄罗斯官方否认与军事行动有关，但我们的现场人员持不同看法。两天前我们失去了该地区的卫星信号——这类技术远超一般 PMC 的能力。分析人员认为克里姆林宫正在逐步放弃掩饰，将更多"猎犬"放入前线。
+
+你的任务是侦察该区域，并向当地战斗单位提供秘密支援。我们的目标是控制局势升级——维持小规模冲突，避免失去更多乌克兰领土。无需多言，我们并未官方介入此事，因此你将在极少甚至没有支援的情况下执行任务。保持干净利落，各位。",
+
+"missionbriefing_ukraine_1","情报显示，俄罗斯军队正通过一处位于乌克兰东部、苏联时期遗留下来的铁路仓库运输武器与弹药。该地由一支身份不明的俄罗斯 PMC 控制。我们前线人员报告，在设施以西频繁出现俄制坦克，暗示该地也可能用于装甲维修。
+
+该区域对抗俄罗斯支持的分裂势力至关重要——如果情报属实，我们可将其作为目标。
+
+我们已获得许可，可对主要建筑群（两栋大型仓库及一栋小型建筑）执行精确空袭。但兰利方面不会仅凭猜测就派出飞机，需确认目标并清除防空威胁后，才会下达打击指令。
+
+此外，有证据表明现场指挥官是该 PMC 的高阶军官——若有机会，务必将其击毙。
+",
+
+"missionbriefing_weather_ukraine_1","晴，0–5°C（31–42°F）",WEATHER item in ENVIRONMENT briefing window
+"missionbriefing_terrain_ukraine_1","河岸针叶林",TERRAIN item in ENVIRONMENT briefing window
+"missionbriefing_enemyforces_ukraine_1","分散部署
+约40人
+装备精良的步兵
+配备防空载具",ENEMY FORCES item in HUMAN FACTORS briefing window
+"missionbriefing_alertnesslevel_ukraine_1","警戒等级：低",ALERTNESS LEVEL item in HUMAN FACTORS briefing window
+"missionbriefing_populace_ukraine_1","平民已撤离/缺失",POPULACE item in HUMAN FACTORS briefing window
+
+"missionbriefing_ukraine_2","这是乌克兰热点地区第二关任务的简报文本。",
+"objectivename_ukraine_1_destroynorthaa","破坏北部无线电塔防空阵地",
+"gamemessage_objectivename_ukraine_1_destroynorthaa_completed","北部防空阵地已瘫痪。",
+"objectivename_ukraine_1_destroysouthaa","破坏桥梁检查站南部防空阵地",
+"gamemessage_objectivename_ukraine_1_destroysouthaa_completed","南部防空阵地已摧毁。",
+"objectivename_ukraine_1_garagegatherintel","在指挥所内搜集情报",
+"objectivename_ukraine_1_garagegatherintel_subobjectivecompleted","已找到情报。",
+"gamemessage_objectivename_ukraine_1_garagegatherintel_completed","已搜集足够情报。",
+"objectivename_ukraine_1_scoutwarehouses","侦察建筑群中的两座仓库内容",
+"objectivename_ukraine_1_scoutwarehouses_subobjectivecompleted","仓库已检查",
+"gamemessage_objectivename_ukraine_1_scoutwarehouses_completed","仓库确认完毕，可作为打击目标。",
+"objectivename_ukraine_1_scouttanks","搜索东部仓库",
+"objectivename_ukraine_1_scouttanks_timedaction","正在检查区域…",
+"objectivename_ukraine_1_scouttanks_subobjectivecompleted","维修车间已检查",
+"gamemessage_objectivename_ukraine_1_scouttanks_completed","东部仓库确认存在坦克维修设施。",">> map-specific version. If not present, fall back to 'objectivetype_<type>_completed'."
+"objectivename_ukraine_1_scoutammo","搜索南部仓库",
+"objectivename_ukraine_1_scoutammo_timedaction","正在检查弹药箱…",
+"objectivename_ukraine_1_scoutammo_subobjectivecompleted","弹药箱已检查",">> map-specific version. If not present, fall back to 'objectivetype_<type>_subobjectivecompleted'."
+"gamemessage_objectivename_ukraine_1_scoutammo_completed","确认南部仓库存放大量弹药。",
+"objectivename_ukraine_1_takeoutvip","消灭村庄区域的 PMC 指挥官",
+"objectivename_ukraine_1_extractfromhelipad","从南部直升机停机坪撤离",
+"gamemessage_objectivename_ukraine_1_extractfromhelipad_completed","成功撤离，好样的兄弟们。",
+
+"objectivetype_scoutlocation_timedaction","正在检查区域",will be put in upper case in widget
+"objectivetype_scoutlocation_subobjectivecompleted","区域检查完毕",">> generic version if token 'objectivename_<hotspot>_<seq>_<objname>_subobjectivecompleted' is not found"
+"gamemessage_objectivetype_scoutlocation_completed","区域侦察已完成。",">> generic version if token 'objectivename_<hotspot>_<seq>_<objname>_completed' is not found"
+"gamemessage_objectivetype_scoutlocation_failed","你未能完成区域侦察。",">> generic version if token 'objectivename_<hotspot>_<seq>_<objname>_failed' is not found"
+
+"objectivetype_objectivegroup_subobjectivecompleted","子任务已完成",">> generic version if token 'objectivename_<hotspot>_<seq>_<objname>_subobjectivecompleted' is not found"
+"gamemessage_objectivetype_objectivegroup_completed","所有任务已完成。",">> generic version if token 'objectivename_<hotspot>_<seq>_<objname>_completed' is not found"
+"gamemessage_objectivetype_objectivegroup_failed","所有任务失败。",">> generic version if token 'objectivename_<hotspot>_<seq>_<objname>_completed' is not found"
+
+"objectivename_ukraine_1_testobjectivegroup","Complete the test objective. I cracked and added some text.",
+"gamemessage_objectivename_ukraine_1_testobjectivegroup_completed","You completed the test objective. Now try the proper ones.",
+
+"gamemessage_detonationtypeselected_manual","选择手动引爆。使用引爆器启动 SLAM 装置。",DestroyAsset mission objective stuff
+"gamemessage_detonationtypeselected_timed","已选择定时引爆（60分钟）。",
+"gamemessage_usedetonatortoblow","使用引爆器激活炸药。",
+"gamemessage_detonatoroutofrange","引爆器距离过远，请靠近一些。",
+
+"gamemessage_gatherintel_enteringzone","进入情报搜索区域",
+"gamemessage_gatherintel_leavingzone","离开情报搜索区域",
+"gamemessage_foundintelgeneric","发现一些情报。",
+"gamemessage_nointelfound","无任何有用的信息。",
+"gamemessage_foundintel_depot_one","发现该 PMC 部队的装备清单。",
+"gamemessage_foundintel_depot_two","获取该 PMC 部队的人员档案。",
+"gamemessage_foundintel_depot_three","找到一张仓库区域地图（有记录痕迹）。",
+"gamemessage_foundintel_depot_four","收集到 PMC 指挥官与克里姆林宫联络人的邮件记录。",
+"gamemessage_foundintel_depot_five","找到了一些关于 PMC 接下来一周行动的命令。",
+"gamemessage_foundintel_depot_six","获取了该地区 PMC 指挥官的银行账户信息。",
+"gamemessage_foundintel_depot_seven","发现了坦克维修来源的相关信息。",
+"gamemessage_foundintel_depot_eight","获取了与分裂势力高级领导人的私人通信和记录。",
+"gamemessage_foundintel_device_flashdrive","未知 U 盘，已收集。",
+"gamemessage_foundintel_device_phone","未知手机，已收集。",
+"gamemessage_foundintel_device_pda","未知 PDA，已收集。",
+
+"gamemessage_objectivetype_killvip_completed","目标人物已被击毙。",">> generic version if token 'objectivename_<hotspot>_<seq>_<objname>_completed' is not found"
+"gamemessage_objectivename_ukraine_1_takeoutvip_completed","PMC 指挥官已被击毙。","specific version for specific mission"
+
+"summary_TimedOut","任务时间超时","AAR"
+"summary_BluForEliminated","您的小队被歼灭了","AAR"
+"summary_MissionAccomplished","所有目标完成，好样的","AAR"
+"summary_MissionPartiallyAccomplished","所有主要目标已完成，收队。","AAR"
+"gamemessage_getwholeteamtoexfil","所有人必须前往撤离点。",""
+"gamemessage_waitforexfilbrief","撤离直升机已出发",""
+"gamemessage_waitforexfil","坚守阵地，我们的直升机即将抵达。",""
+"gamemessage_exfilisready","撤离点已就绪，可以撤离了。",""
+"format_FriendlyAIWasKilled","特战队员 {killedname} 已阵亡。",

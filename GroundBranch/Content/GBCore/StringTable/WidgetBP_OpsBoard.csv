@@ -1,0 +1,17 @@
+﻿"Key","SourceString"
+"Refreshing","刷新中..."
+"RefreshLocations","刷新地点"
+"MissionParameters","任务参数"
+"RefreshComplete","完成！"
+"ClickToSpectate","点击旁观"
+"MissionInProgress","任务
+进行中"
+"MissionArea","任务区域"
+"ClickToDeploy","点击部署"
+"MissionAreaNewline","任务
+区域"
+"ClickToReadyUp","点击准备就绪"
+"SpawnByClickingMapWhenNoInsertionPoints","如果游戏模式不使用插入点，只需点击地图即可生成。"
+"MissionParametersEditableByAdminsOrOffline","任务参数可由服务器管理员或在离线模式下编辑。"
+"SelectInsertionPointWhenReady","准备部署时，选择一个插入点。"
+"StartingTheMission","正在开始任务"

@@ -1,0 +1,84 @@
+﻿"Key","SourceString"
+"IncomingRadioVoip","接收电台 (VOIP)"
+"DisableUnusedInputDevices","1. 转到控制面板 › 声音 › '录制' 选项卡
+2. 右键单击未使用的输入设备并选择 '禁用'
+3. 对所有未使用的输入设备重复此操作"
+"ChangeMicrophonePrivacySettings","4. 更改麦克风隐私设置："
+"IncomingVoiceVoip","接收语音 (VOIP)"
+"ChannelConfiguration","声道配置"
+"SurroundSoundWarningTitle","注意"
+"SurroundSoundWarningMessageExtended","请确保你的耳机或扬声器设置与 5.1 或 7.1 兼容，此配置才能正常工作。
+
+否则你可能会遇到方向性音频问题（包括丢失声音）。"
+"Stereo2_1","立体声 2.1"
+"VoipIssuesIntro","使用 VOIP 时遇到卡顿和冻结？其他玩家听不到你的声音？请尝试以下任一解决方案："
+"Communications","通讯"
+"ToggleVoipMode","3. 在游戏中启用然后禁用 VOIP ""切换"" 模式："
+"SoundEffects","音效"
+"Headphones","耳机"
+"AudioMix","[平衡]
+默认的、面向真实感的混音。
+
+[耳机]
+更平和的混音，针对耳机优化。
+
+[低音增强]
+增强枪声、爆炸声和脚步声中的低频。"
+"ProximityVoiceMode","近距离语音 (VOIP) 模式"
+"Balanced","平衡"
+"SetDefaultVoiceInputDevice","1. 确保你想要的语音输入设备在以下位置设置为默认："
+"LoopBack","回环"
+"Microphone","麦克风"
+"General","通用"
+"ToggleExclusiveControl","5. 尝试禁用/启用 ""允许应用程序独占控制此设备""："
+"MicrophonePrivacySettingsSteps","1. 在 Windows 搜索栏中输入 ""麦克风隐私设置"" 并打开
+2. 确保 ""允许应用访问你的麦克风"" 和 ""允许桌面应用访问你的麦克风"" 都已开启
+3. 如果已开启，请再次禁用并启用这两个选项"
+"BassBoost","低音增强"
+"Surround7_1","环绕声 7.1"
+"ChannelConfigurationInfo","[立体声 2.1]
+双声道音频（左和右）加上低音炮（如果有）。推荐用于基本的双扬声器和条形音箱设置。
+
+[环绕声 5.1]
+适用于 5.1 环绕声设置，物理或虚拟。需要兼容的驱动程序！
+
+[环绕声 7.1]
+适用于 7.1 环绕声设置，物理或虚拟。需要兼容的驱动程序！
+
+[空间 (HRTF)]
+推荐给耳机用户，HRTF 为双声道音频提供增强的方向/空间反馈。"
+"Surround5_1","环绕声 5.1"
+"VolumePercentFormat","{Value}%"
+"WindowsRecordingTab","控制面板 › 声音 › '录制' 选项卡"
+"Volume","音量"
+"LoopBackTooltip","听到自己正在发送的语音。"
+"ToggleModeSteps","1. 在 GROUND BRANCH 中，进入设置 › 音频
+2. 在通讯下，点击语音输入模式并选择 ""切换""
+3. 点击应用按钮
+4. 将语音输入模式改回 ""按键通话 (PTT)"" 并再次点击应用"
+"SteamFriendsVoiceInputDevice","好友列表设置 › 语音 › 语音输入设备"
+"DisableUnusedInputDevicesTitle","2. 禁用未使用的输入设备："
+"UnfocusedVolume","游戏窗口未获得焦点时（最小化、Alt-Tab 切换等）的音量。"
+"ShowIconProximityVoice","显示图标：近距离语音 (VOIP)"
+"UnfocusedVolumeLabel","非焦点音量"
+"ReconnectInputDevice","1. 退出到桌面
+2. 物理拔掉输入设备
+3. 重新插入
+4. 启动游戏"
+"Steam","Steam"
+"PushToTalkPtt","按键通话 (PTT)"
+"RestartGameAfterInputChange","重启游戏以便它能检测到新的输入设备。如果问题仍然存在："
+"MasterVolume","主音量"
+"Music","音乐"
+"VoipIssuesQuestion","遇到麦克风或 VOIP 问题？"
+"Windows","Windows"
+"ExclusiveControlSteps","1. 转到控制面板 › 声音 › '录制' 选项卡
+2. 右键单击你的语音输入设备并选择 '属性'
+3. 在 '高级' 选项卡中，找到选项 ""允许应用程序独占控制此设备""
+4. 尝试禁用/启用它（即如果已勾选，尝试取消勾选，反之亦然）"
+"SpatialHrtf","空间 (HRTF)"
+"Audio","音频"
+"AudioMixSetting","音频混音"
+"Toggle","切换"
+"ShowIconRadioVoip","显示图标：电台 (VOIP)"
+"ResetDefaultLabel","重置为默认"

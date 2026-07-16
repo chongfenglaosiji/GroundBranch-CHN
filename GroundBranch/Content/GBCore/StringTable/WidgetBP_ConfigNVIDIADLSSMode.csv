@@ -1,0 +1,12 @@
+﻿"Key","SourceString"
+"Balanced","平衡"
+"UltraQuality","超高质量"
+"NotSupported","您的硬件不支持 DLSS 超级分辨率。需要 NVIDIA RTX 显卡。"
+"UltraPerformance","超高性能"
+"Quality","画质"
+"Performance","性能"
+"Supported","NVIDIA DLSS 使用 AI 超级分辨率，以在最高图形设置下提供尽可能高的帧率。
+
+注意：启用 DLSS 时，NVIDIA DLAA 将不可用。"
+"Dlaa","DLAA"
+"DlssSuperResolution","NVIDIA® DLSS 超级分辨率"

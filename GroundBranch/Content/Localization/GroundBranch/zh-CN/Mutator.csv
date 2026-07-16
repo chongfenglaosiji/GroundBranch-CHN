@@ -1,0 +1,57 @@
+Key,SourceString,Comment
+"mutatoroption_forceuseelementcallsign","强制使用基于元素的呼号",ServerManagement.lua
+"mutatoroption_forceuseelementcallsign_0","否",ServerManagement.lua
+"mutatoroption_forceuseelementcallsign_1","是",ServerManagement.lua
+"mutatoroption_allowduplicatecallsigns","允许重复呼号",ServerManagement.lua
+"mutatoroption_allowduplicatecallsigns_0","否",ServerManagement.lua
+"mutatoroption_allowduplicatecallsigns_1","是",ServerManagement.lua
+"mutatoroption_elementcallsignformat","元素呼号格式",ServerManagement.lua
+"mutatoroption_elementcallsignformat_0","A05 / C13",ServerManagement.lua
+"mutatoroption_elementcallsignformat_1","A-5 / C-13",ServerManagement.lua
+"mutatoroption_elementcallsignformat_2","A*5 / C*13",ServerManagement.lua
+"mutatoroption_elementcallsignformat_3","A 5 / C 13",ServerManagement.lua
+"mutatoroption_elementcallsignformat_4","XA5 / XC13",ServerManagement.lua
+"mutatoroption_elementcallsignformat_5","XA-5 / XC-13",ServerManagement.lua
+"mutatoroption_elementcallsignformat_6","5A / 13C",ServerManagement.lua
+"mutatoroption_elementcallsignformat_7","5-A / 13-C",ServerManagement.lua
+"mutatoroption_elementcallsignformat_8","AE / CR",ServerManagement.lua
+"mutatoroption_elementcallsignformat_9","A-E / C-R",ServerManagement.lua
+"mutatoroption_itembuildnameverbosity","默认物品构建名称",InventoryManagement.lua
+"mutatoroption_itembuildnameverbosity_0","（已禁用）",InventoryManagement.lua
+"mutatoroption_itembuildnameverbosity_1","仅物品名称",InventoryManagement.lua
+"mutatoroption_itembuildnameverbosity_2","关键特性",InventoryManagement.lua
+"mutatoroption_itembuildnameverbosity_3","详细",InventoryManagement.lua
+"mutatoroption_itembuildnameverbosity_4","唯一构建名称",InventoryManagement.lua
+"mutatoroption_removeprimary","主武器",WeaponRestriction.lua
+"mutatoroption_removeprimary_0","无限制",WeaponRestriction.lua
+"mutatoroption_removeprimary_1","不允许主武器",WeaponRestriction.lua
+"mutatoroption_removesidearm","副武器",WeaponRestriction.lua
+"mutatoroption_removesidearm_0","无限制",WeaponRestriction.lua
+"mutatoroption_removesidearm_1","不允许副武器",WeaponRestriction.lua
+"mutatoroption_maxfrags","破片手榴弹",WeaponRestriction.lua
+"mutatoroption_maxfrags_0","无限制",WeaponRestriction.lua
+"mutatoroption_maxfrags_1","不允许",WeaponRestriction.lua
+"mutatoroption_maxfrags_2","允许1个",WeaponRestriction.lua
+"mutatoroption_maxfrags_3","允许2个",WeaponRestriction.lua
+"mutatoroption_maxfrags_4","允许3个",WeaponRestriction.lua
+"mutatoroption_maxfrags_5","允许4个",WeaponRestriction.lua
+"mutatoroption_maxfrags_6","允许5个",WeaponRestriction.lua
+"mutatoroption_maxsmokes","烟雾弹",WeaponRestriction.lua
+"mutatoroption_maxsmokes_0","无限制",WeaponRestriction.lua
+"mutatoroption_maxsmokes_1","不允许",WeaponRestriction.lua
+"mutatoroption_maxsmokes_2","允许1个",WeaponRestriction.lua
+"mutatoroption_maxsmokes_3","允许2个",WeaponRestriction.lua
+"mutatoroption_maxsmokes_4","允许3个",WeaponRestriction.lua
+"mutatoroption_maxsmokes_5","允许4个",WeaponRestriction.lua
+"mutatoroption_maxsmokes_6","允许5个",WeaponRestriction.lua
+"mutatoroption_maxflashbangs","闪光弹",WeaponRestriction.lua
+"mutatoroption_maxflashbangs_0","无限制",WeaponRestriction.lua
+"mutatoroption_maxflashbangs_1","不允许",WeaponRestriction.lua
+"mutatoroption_maxflashbangs_2","允许1个",WeaponRestriction.lua
+"mutatoroption_maxflashbangs_3","允许2个",WeaponRestriction.lua
+"mutatoroption_maxflashbangs_4","允许3个",WeaponRestriction.lua
+"mutatoroption_maxflashbangs_5","允许4个",WeaponRestriction.lua
+"mutatoroption_maxflashbangs_6","允许5个",WeaponRestriction.lua
+"mutatoroption_removebreachcharge","爆破炸药",WeaponRestriction.lua
+"mutatoroption_removebreachcharge_0","无限制",WeaponRestriction.lua
+"mutatoroption_removebreachcharge_1","不允许爆破炸药",WeaponRestriction.lua
