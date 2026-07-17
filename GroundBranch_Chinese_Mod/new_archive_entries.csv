@@ -1,0 +1,48 @@
+key,source,target
+/1D13732543EBE84C472435B7025CBAD8,"If kit restrictions are enabled, they will take effect next time you spawn or change your kit",如果启用了装备限制，下次生成或更换装备时将生效
+/4F6F75D146B1062CCE5CE88F9190D6E0,Kit restrictions have been saved on server,装备限制已保存在服务器上
+/722C22134565FF80F73B669EB2FBA238,Kit restrictions will be applied the next time you spawn or change your kit,装备限制将在你下次重生或更换装备时应用
+/84AA70E547DAA0868E37D2A83392D7D8,Kit restrictions {enabled},装备限制 {enabled}
+/97FFE72F4537DE27C6ACD390529F5710,Kits can now be changed to anything you like,装备现在可以更改为你喜欢的任何东西
+/C739F5AF443062EE629D389BE9625283,Requesting kit restrictions...,请求装备限制...
+/BDF44D5F4787C9B56B2DCE9F70033C71,Requesting server game rules...,请求服务器游戏规则...
+/6CCD70324F4BD01FF4C5E7BB0BB02887,Submitting game rules...,正在提交游戏规则...
+/9B1E23DD4EA49669EC436291CBA347E6,Submitting kit restrictions...,正在提交装备限制...
+/A83CF4F143B99AA82A7B5EBBA3789676,Unknown,未知
+/1B02B7A34A25A818FF93BB9A21EBA134,Unknown,未知
+/4C1EEE724DBAA9E292353DB590F504B1,disabled,已禁用
+/D37C7CE3403CA0FD36C3AA9E7A0AD049,enabled,已启用
+/03C06FFD415347C213AACDB659F89D84,Iron Lake,铁湖
+/305824D34148D3A5D45410B9FD01C65C,Northwest Pakistan,巴基斯坦西北部
+/528E3E184870DB4FBB8E5793972754C4,Eastern Ukraine,乌克兰东部
+/6FC6F4584082B4155B2F47B25BABDD77,"Donbas Region, Eastern Ukraine",乌克兰东部顿巴斯地区
+/6A54932248BDD15929BC7FB13DBCF8C7,Operation Onyx Flame,缟玛瑙烈焰行动
+/84D4A97644A1F74831A4A0BDBE6219F7,Operation Gilded Arrow,镀金箭行动
+/FA1B2904ABFE405BAB7C2830F4005ED1,Silent Reach,夜袭
+/6A76A0B64837A28FABF104AA3083EF18,Contingency Departure,应急撤离
+/B30BDC094489E71614914A95102A4BE2,Eliminate Shamsuddin Al-Qurashi,消灭沙姆苏丁·库拉希
+/5C14283A4BAA442661B89898A36EAD7D,Eliminate Shamsuddin Al-Qurashi,消灭沙姆苏丁·库拉希
+/309241604BB558461251C99A99B095F3,Eliminate Shamsuddin Al-Qurashi,消灭沙姆苏丁·库拉希
+/0160D3F14085C44E1DCCF6BF097D2AB1,Eliminate Al-Qurashi,消灭库拉希
+/DEA067A24BDC22569BEB6BA167C32E73,Eliminate the PMC commander in the village area,消灭村庄区域的PMC指挥官
+/2A8B439A45E9DDC36769CDB859F08DDD,Gather intel from Al-Qurashi residence,从库拉希住所搜集情报
+/590C6FF44FEA61019C3F35B2E29F1C05,Gather intel from Al-Qurashi residence,从库拉希住所搜集情报
+/70CE5F6748E791840B017A870C3B632F,Gather intel from Al-Qurashi residence,从库拉希住所搜集情报
+/60E530464329894585685F8E94B6E1B8,Rescue the hostage and extract safely,解救人质并安全撤离
+/9EC3D1424CB0F6DF3BA0C6A094E21DE4,Rescue the hostage and extract safely,解救人质并安全撤离
+/0BB225B54DE102EF82884A95A5641684,Shamsuddin Al-Qurashi; last known photo (source: Saif Al-Nabi broadcast),沙姆苏丁·库拉希；最后已知照片（来源：赛义夫·阿尔-纳比广播）
+/F209BC004A9B38AC386A578F134AC5B4,"Al-Qurashi compound, east view",库拉希据点，东侧视角
+/FA62B04244DAAD1093C15C9E38E1FF7E,"Al-Qurashi compound, southeast view",库拉希据点，东南侧视角
+/B9F0DDCD448E77C7C500B6B2FD4942A4,"Al-Qurashi compound, west view",库拉希据点，西侧视角
+/30071DE448B318EA67EFA29C184C4D2C,"Al-Qurashi compound, southwest view",库拉希据点，西南侧视角
+/94F3894B487014092E1F0FA63942DDE7,"Al-Qurashi compound, north view #1",库拉希据点，北侧视角 #1
+/9FCECF6743AAF6CA1F0EFDA9B7E8664E,"Al-Qurashi compound, north view #2",库拉希据点，北侧视角 #2
+/C54BBC774EF89B980933BC8F57F941B9,"Al-Qurashi compound, northeast view",库拉希据点，东北侧视角
+/7D63BB204A3A2B8E184A47A9B993C269,Al-Qurashi,库拉希
+/1E274B2E4A6423F2CDE5D1A7B7AD32C0,"Khyber Pakhtunkhwa Province, Durand Line",开伯尔-普赫图赫瓦省，杜兰德线
+/ED37808C411D12FDF952179AF740449D,Kill or Capture,击杀或捕获
+/1C13E9E3441868FB25BB73818134E406,"Semi-Arid, Mountainous",半干旱，多山地形
+/4CEA16DD488113BEBF2E8985CE1BB20F,"Poorly trained militants, approximately 6 known",训练不足的武装分子，约6人
+/2DCEF38144EED930822182B5F50B7B75,"Inactive, at rest/asleep",非活跃状态，休息/睡眠中
+/151883F9418E76783EE4549632AA052B,The Saif Al-Nabi and their vast network of terrorist cells have been traced back to the neighboring country of Pakistan.,赛义夫·阿尔-纳比及其庞大的恐怖组织网络已被追踪到邻国巴基斯坦。
+/70568B6848017E358B414E8D3C8ACB3D,"Sorry we had to keep you in the dark for so long. From the start, this op has been eyes-only, cleared for a select few.",抱歉让你蒙在鼓里这么久。从一开始，这次行动就是绝密级，仅限少数人知晓。
