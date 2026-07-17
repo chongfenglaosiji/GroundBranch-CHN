@@ -1,11 +1,11 @@
 Key,SourceString,Comment
-"Benchmark","Benchmark",""
-"summary_Complete","Benchmark Complete.","AAR"
-"summary_Failed","Benchmark Failed.","AAR"
-"format_RemainingOpfor","{NumberRemaining} {NumberRemaining}|plural(one=enemy,other=enemies) remaining",formatted string
+"Benchmark","基准测试",""
+"summary_Complete","基准测试完成。","AAR"
+"summary_Failed","基准测试失败。","AAR"
+"format_RemainingOpfor","剩余 {NumberRemaining} 个敌人",formatted string
 "missionsetting_ai","AI","Opsboard"
-"missionsetting_ai_0","Off",
-"missionsetting_ai_1","On",
-"missionsetting_spectatoronly","Spectator Only","Opsboard"
-"missionsetting_spectatoronly_0","Disabled",
-"missionsetting_spectatoronly_1","Enabled",
+"missionsetting_ai_0","关闭",
+"missionsetting_ai_1","开启",
+"missionsetting_spectatoronly","仅观战","Opsboard"
+"missionsetting_spectatoronly_0","禁用",
+"missionsetting_spectatoronly_1","启用",

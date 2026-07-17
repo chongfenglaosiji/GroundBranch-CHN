@@ -15,4 +15,4 @@ Key,SourceString,Comment
 "missionsetting_randomisetcount_1","少量",
 "missionsetting_randomisetcount_2","大量",
 "gamemessage_randomisedtcount","敌人数量已被随机化。",""
-"format_RemainingOpfor","{NumberRemaining} {NumberRemaining}|plural(one=enemy,other=enemies) remaining",formatted string
+"format_RemainingOpfor","剩余 {NumberRemaining} 个敌人",formatted string

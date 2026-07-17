@@ -1,6 +1,6 @@
 Key,SourceString,Comment
 DTAS,动态夺取与占领,
-FoxHunt,Fox Hunt
+FoxHunt,猎杀资产
 objective_DefendObjective,你正在防守。,Opsboard
 objective_DefendObjectiveDTAS,保卫旗帜区域,Opsboard
 objective_DefendObjectiveFoxHunt,保护资产。,Opsboard

@@ -13,6 +13,6 @@ Key,SourceString,Comment
 "missionsetting_randomisetcount_1","少量",
 "missionsetting_randomisetcount_2","大量",
 "gamemessage_randomisedtcount","敌人数量已被随机化。",""
-"format_XBombsRemain","{NumberRemaining} {NumberRemaining}|plural(one=bomb,other=bombs) left",formatted string
-"format_DefuseXBombs","You have {Minutes} {Minutes}|plural(one=minute,other=minutes) to defuse {NumberRemaining} {NumberRemaining}|plural(one=bomb,other=bombs).\nGo go go!",formatted string
-"format_BombDefusedXLeft","Bomb defused!\n{NumberRemaining} {NumberRemaining}|plural(one=bomb,other=bombs) left",formatted string
+"format_XBombsRemain","剩余 {NumberRemaining} 个炸弹",formatted string
+"format_DefuseXBombs","你有 {Minutes} 分钟拆除 {NumberRemaining} 个炸弹。\n快！",formatted string
+"format_BombDefusedXLeft","炸弹已拆除！\n剩余 {NumberRemaining} 个炸弹",formatted string

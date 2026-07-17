@@ -62,8 +62,8 @@ Key,SourceString,Comment
 "gamemessage_objectivetype_objectivegroup_completed","所有任务已完成。",">> generic version if token 'objectivename_<hotspot>_<seq>_<objname>_completed' is not found"
 "gamemessage_objectivetype_objectivegroup_failed","所有任务失败。",">> generic version if token 'objectivename_<hotspot>_<seq>_<objname>_completed' is not found"
 
-"objectivename_ukraine_1_testobjectivegroup","Complete the test objective. I cracked and added some text.",
-"gamemessage_objectivename_ukraine_1_testobjectivegroup_completed","You completed the test objective. Now try the proper ones.",
+"objectivename_ukraine_1_testobjectivegroup","这是一个测试目标……",
+"gamemessage_objectivename_ukraine_1_testobjectivegroup_completed","你已完成测试目标。现在去完成真正的任务吧。",
 
 "gamemessage_detonationtypeselected_manual","选择手动引爆。使用引爆器启动 SLAM 装置。",DestroyAsset mission objective stuff
 "gamemessage_detonationtypeselected_timed","已选择定时引爆（60分钟）。",
